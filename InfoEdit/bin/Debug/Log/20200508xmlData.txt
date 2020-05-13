@@ -1,0 +1,22 @@
+2020/5/8 10:13:53未将对象引用设置到对象的实例。
+2020/5/8 10:20:15未将对象引用设置到对象的实例。
+2020/5/8 16:05:00不应有 <TrackInfo xmlns=''>。 XML 文档(2, 2)中有错误。
+2020/5/8 16:05:00不存在车站数据头
+2020/5/8 16:05:02未将对象引用设置到对象的实例。
+2020/5/8 16:05:08序列不包含任何匹配元素
+2020/5/8 17:35:44无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:44无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:48无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:51无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:52无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:52无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:53无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:53无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:54无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:35:55未将对象引用设置到对象的实例。
+2020/5/8 17:36:45无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:36:45无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:36:54无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:36:55无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 17:39:47无法将类型为“System.Data.DataView”的对象强制转换为类型“System.Data.DataTable”。
+2020/5/8 20:38:35未将对象引用设置到对象的实例。

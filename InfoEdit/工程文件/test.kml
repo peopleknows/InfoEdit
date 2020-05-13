@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>20150808</name>
+    <Placemark>
+      <name>nmea route</name>
+      <styleUrl>red</styleUrl>
+      <ExtendedData />
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-112.255079,36.079550,2357.00 -112.254928,36.081171,2357.00 </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="green">
+      <LineStyle>
+        <color>7fFFFF00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="red">
+      <LineStyle>
+        <color>7f0000FF</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="blue">
+      <LineStyle>
+        <color>7fFF0000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="black">
+      <LineStyle>
+        <color>50000014</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

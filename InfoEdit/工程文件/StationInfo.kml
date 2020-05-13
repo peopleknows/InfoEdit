@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2020/5/12</name>
+    <Placemark>
+      <name>StationInfo.xml</name>
+      <styleUrl>red</styleUrl>
+      <ExtendedData />
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>122.286094,42.048726,0.00 122.296557,42.046846,0.00 122.297722,42.046631,0.00 122.307413,42.044901,0.00 122.312306,42.044018,0.00 122.286080,42.048682,0.00 122.312292,42.043975,0.00 122.294648,42.047187,0.00 122.296538,42.046907,0.00 122.299440,42.046393,0.00 122.303750,42.045609,0.00 122.304241,42.045510,0.00 122.305147,42.045309,0.00 122.305712,42.045200,0.00 122.294635,42.047152,0.00 122.296170,42.046815,0.00 122.296980,42.046660,0.00 122.299315,42.046245,0.00 122.303875,42.045421,0.00 122.305269,42.045225,0.00 122.305699,42.045156,0.00 122.306390,42.045033,0.00 122.306816,42.044961,0.00 122.308163,42.044764,0.00 122.292155,42.047633,0.00 122.293892,42.047282,0.00 </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="green">
+      <LineStyle>
+        <color>7fFFFF00</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="red">
+      <LineStyle>
+        <color>7f0000FF</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="blue">
+      <LineStyle>
+        <color>7fFF0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="black">
+      <LineStyle>
+        <color>50000014</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

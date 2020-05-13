@@ -1,0 +1,666 @@
+Ôªø<?xml version="1.0" encoding="utf-8"?>
+<Station>
+    <StationProperties>
+        <StationNum>1</StationNum>
+        <StationName>xxx</StationName>
+        <UplinkStationCount>1</UplinkStationCount>
+        <UplinkStationNum>1</UplinkStationNum>
+        <DownlinkStationCount>1</DownlinkStationCount>
+        <DownlinkStationNum>1</DownlinkStationNum>
+        <TrackGISFileSize>0</TrackGISFileSize>
+        <TrackGISCRC>0</TrackGISCRC>
+        <TrackGISVersion>1</TrackGISVersion>
+        <MinimumLat>150000000</MinimumLat>
+        <MinimumLon>440000000</MinimumLon>
+        <MaximumLat>150000000</MaximumLat>
+        <MaximumLon>440000000</MaximumLon>
+        <TrainControlDataSize>0</TrainControlDataSize>
+        <TrainControlDataCRC>0</TrainControlDataCRC>
+        <TrainControlDataversion>1</TrainControlDataversion>
+    </StationProperties>
+    <TrackInfo>
+        <TrackFileProperty>
+            <error />
+            <TrackFileStructVersion>1</TrackFileStructVersion>
+            <TrackFileDataVersion>1</TrackFileDataVersion>
+            <StationNum>1</StationNum>
+            <TrackCount>6</TrackCount>
+        </TrackFileProperty>
+        <Track>
+            <error />
+            <TrackID>1</TrackID>
+            <TrackType>3</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <Track>
+            <error />
+            <TrackID>2</TrackID>
+            <TrackType>2</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <Track>
+            <error />
+            <TrackID>3</TrackID>
+            <TrackType>4</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <Track>
+            <error />
+            <TrackID>4</TrackID>
+            <TrackType>4</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <Track>
+            <error />
+            <TrackID>5</TrackID>
+            <TrackType>5</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <Track>
+            <error />
+            <TrackID>6</TrackID>
+            <TrackType>5</TrackType>
+            <StartMileage>0</StartMileage>
+            <StartLat>150000000</StartLat>
+            <StartLon>440000000</StartLon>
+            <EndMileage>0</EndMileage>
+            <EndLat>150000000</EndLat>
+            <EndLon>440000000</EndLon>
+            <StartAddress>0</StartAddress>
+            <EndAddress>0</EndAddress>
+        </Track>
+        <TrackGIS>
+            <Track>
+                <error />
+                <TrackID>1</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+            <Track>
+                <error />
+                <TrackID>2</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+            <Track>
+                <error />
+                <TrackID>3</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+            <Track>
+                <error />
+                <TrackID>4</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+            <Track>
+                <error />
+                <TrackID>5</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+            <Track>
+                <error />
+                <TrackID>6</TrackID>
+                <TrackPiece>
+                    <DeltaPos>0</DeltaPos>
+                    <DeltaLat>0</DeltaLat>
+                    <DeltaLon>0</DeltaLon>
+                    <DeltaHeading>0</DeltaHeading>
+                    <AdjacentTrack>0</AdjacentTrack>
+                </TrackPiece>
+            </Track>
+        </TrackGIS>
+    </TrackInfo>
+    <TrainControlData>
+        <TrainControlDataProperty>
+            <FileStructVersion>1</FileStructVersion>
+            <FileDataVersion>1</FileDataVersion>
+            <StationNum>1</StationNum>
+            <StartEdgeCount>1</StartEdgeCount>
+            <StartEdge>
+                <StartEdgeID>1</StartEdgeID>
+                <TrackNum>1</TrackNum>
+                <ByteOffset>0</ByteOffset>
+            </StartEdge>
+            <EndEdgeCount>1</EndEdgeCount>
+            <EndEdge>
+                <EndEdgeID>1</EndEdgeID>
+                <TrackNum>1</TrackNum>
+                <ByteOffset>0</ByteOffset>
+            </EndEdge>
+            <BaliseDataByteOffset>1</BaliseDataByteOffset>
+        </TrainControlDataProperty>
+        <StationEdgeData>
+            <error>==========StationEdgeDataËΩ¶Á´ôÁÆ°ËæñËæπÁïåÊï∞ÊçÆ==========</error>
+            <StartEdge>
+                <Type>1</Type>
+                <AdjacentDataOffset>0</AdjacentDataOffset>
+                <AdjacentTsrsNum>0</AdjacentTsrsNum>
+                <AdjacentStationNum>0</AdjacentStationNum>
+                <AdjacentEdgeType>1</AdjacentEdgeType>
+                <AdjacentTrackNum>0</AdjacentTrackNum>
+                <Position>0</Position>
+                <EdgeTrackNum>2</EdgeTrackNum>
+            </StartEdge>
+            <EndEdge>
+                <Type>255</Type>
+                <AdjacentDataOffset>0</AdjacentDataOffset>
+                <AdjacentTsrsNum>0</AdjacentTsrsNum>
+                <AdjacentStationNum>0</AdjacentStationNum>
+                <AdjacentEdgeType>255</AdjacentEdgeType>
+                <AdjacentTrackNum>0</AdjacentTrackNum>
+                <Position>0</Position>
+                <EdgeTrackNum>2</EdgeTrackNum>
+            </EndEdge>
+        </StationEdgeData>
+        <SwitchData>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>1</SwitchNum>
+                <SwitchDirection>0</SwitchDirection>
+                <SwitchPOI>51450</SwitchPOI>
+                <SwitchPos>51450</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>1</PreSwitchTrackNum>
+                <SwitchPosTrackNum>1</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>6</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>2</SwitchNum>
+                <SwitchDirection>1</SwitchDirection>
+                <SwitchPOI>0</SwitchPOI>
+                <SwitchPos>0</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>1</PreSwitchTrackNum>
+                <SwitchPosTrackNum>1</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>5</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>3</SwitchNum>
+                <SwitchDirection>1</SwitchDirection>
+                <SwitchPOI>0</SwitchPOI>
+                <SwitchPos>0</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>2</PreSwitchTrackNum>
+                <SwitchPosTrackNum>2</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>6</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>4</SwitchNum>
+                <SwitchDirection>0</SwitchDirection>
+                <SwitchPOI>1</SwitchPOI>
+                <SwitchPos>1</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>2</PreSwitchTrackNum>
+                <SwitchPosTrackNum>2</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>5</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>5</SwitchNum>
+                <SwitchDirection>0</SwitchDirection>
+                <SwitchPOI>0</SwitchPOI>
+                <SwitchPos>0</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>2</PreSwitchTrackNum>
+                <SwitchPosTrackNum>2</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>4</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>6</SwitchNum>
+                <SwitchDirection>1</SwitchDirection>
+                <SwitchPOI>1</SwitchPOI>
+                <SwitchPos>1</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>0</LastOffset>
+                <SwitchPosOffset>0</SwitchPosOffset>
+                <NextOffset>0</NextOffset>
+                <PreSwitchTrackNum>1</PreSwitchTrackNum>
+                <SwitchPosTrackNum>1</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>3</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>0</Type>
+                <SwitchNum>7</SwitchNum>
+                <SwitchDirection>0</SwitchDirection>
+                <SwitchPOI>0</SwitchPOI>
+                <SwitchPos>0</SwitchPos>
+                <SwitchReversePos>1</SwitchReversePos>
+                <LastOffset>1</LastOffset>
+                <SwitchPosOffset>1</SwitchPosOffset>
+                <NextOffset>1</NextOffset>
+                <PreSwitchTrackNum>1</PreSwitchTrackNum>
+                <SwitchPosTrackNum>1</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>3</SwitchReverseTrackNum>
+            </Switch>
+            <Switch>
+                <Type>1</Type>
+                <SwitchNum>8</SwitchNum>
+                <SwitchDirection>1</SwitchDirection>
+                <SwitchPOI>1</SwitchPOI>
+                <SwitchPos>1</SwitchPos>
+                <SwitchReversePos>0</SwitchReversePos>
+                <LastOffset>1</LastOffset>
+                <SwitchPosOffset>1</SwitchPosOffset>
+                <NextOffset>1</NextOffset>
+                <PreSwitchTrackNum>2</PreSwitchTrackNum>
+                <SwitchPosTrackNum>2</SwitchPosTrackNum>
+                <SwitchReverseTrackNum>4</SwitchReverseTrackNum>
+            </Switch>
+        </SwitchData>
+        <BaliseData>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>1</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>1</BaliseProperty>
+                <BalisePos>1</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>0</BaliseLoc>
+                <BaliseDataPort>0</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>2</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>65</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>3</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>32</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>4</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>32</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>5</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>64</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>6</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>1</BaliseProperty>
+                <BalisePos>1</BalisePos>
+                <BaliseTrackNum>1</BaliseTrackNum>
+                <BaliseLoc>0</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>7</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>1</BaliseProperty>
+                <BalisePos>1</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>0</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>1</Type>
+                <LastOffset>1</LastOffset>
+                <NextOffset>1</NextOffset>
+                <BaliseNum>8</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>66</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>1</Type>
+                <LastOffset>1</LastOffset>
+                <NextOffset>1</NextOffset>
+                <BaliseNum>9</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>33</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>1</Type>
+                <LastOffset>1</LastOffset>
+                <NextOffset>1</NextOffset>
+                <BaliseNum>10</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>33</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>11</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>66</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>12</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>1</BaliseProperty>
+                <BalisePos>1</BalisePos>
+                <BaliseTrackNum>2</BaliseTrackNum>
+                <BaliseLoc>0</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>13</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>3</BaliseTrackNum>
+                <BaliseLoc>32</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>14</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>129</BaliseProperty>
+                <BalisePos>129</BalisePos>
+                <BaliseTrackNum>3</BaliseTrackNum>
+                <BaliseLoc>32</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>15</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>4</BaliseTrackNum>
+                <BaliseLoc>32</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>16</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>65</BaliseProperty>
+                <BalisePos>65</BalisePos>
+                <BaliseTrackNum>4</BaliseTrackNum>
+                <BaliseLoc>0</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+            <Balise>
+                <Type>0</Type>
+                <LastOffset>0</LastOffset>
+                <NextOffset>0</NextOffset>
+                <BaliseNum>17</BaliseNum>
+                <DataSize>1</DataSize>
+                <BaliseProperty>1</BaliseProperty>
+                <BalisePos>1</BalisePos>
+                <BaliseTrackNum>4</BaliseTrackNum>
+                <BaliseLoc>33</BaliseLoc>
+                <BaliseDataPort>1</BaliseDataPort>
+            </Balise>
+        </BaliseData>
+    </TrainControlData>
+</Station>    ˇˇˇˇ          ?InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null   InfoEdit.Station   stationProperties	trackInfotrainControlDataInfoEdit.StationProperties   InfoEdit.TrackInfo   InfoEdit.TrainControlData      	   	   	      InfoEdit.StationProperties   
+stationNumstationNameuplinkStationCountuplinkStationNumdownlinkStationCountdownlinkStationNumtrackGISFileSizetrackGISCRCtrackGISVersion
+minimumLat
+minimumLon
+maximumLat
+maximumLontrainControlDataSizetrainControlDataCRCtrainControlDataversion                      xxx        Ä— ﬁ9Ä— ﬁ9           InfoEdit.TrackInfo   trackFilePropertytrackstrackGISInfoEdit.TrackFileProperty   tSystem.Collections.Generic.List`1[[InfoEdit.Track, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]InfoEdit.TrackGIS      	   	   		      InfoEdit.TrainControlData   trainControlDataPropertystationEdgeData
+switchData
+baliseData!InfoEdit.TrainControlDataProperty   InfoEdit.StationEdgeData   InfoEdit.SwitchData   InfoEdit.BaliseData      	
+   	   	   	      InfoEdit.TrackFileProperty   trackFileTypetrackFileStructVersiontrackFileDataVersion
+stationNum
+trackCount            tSystem.Collections.Generic.List`1[[InfoEdit.Track, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.Track[]   	         	   InfoEdit.TrackGIS   trackPieceGIS|System.Collections.Generic.List`1[[InfoEdit.TrackPieceGIS, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   	   
+   !InfoEdit.TrainControlDataProperty	   fileTypefileStructVersionfileDataVersion
+stationNumstartEdgeCountstartEdgeInfoendEdgeCountendEdgeInfobaliseDataByteOffset       |System.Collections.Generic.List`1[[InfoEdit.StartEdgeInfo, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]zSystem.Collections.Generic.List`1[[InfoEdit.EndEdgeInfo, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]      	   	       InfoEdit.StationEdgeData   
+startEdgesendEdgesxSystem.Collections.Generic.List`1[[InfoEdit.StartEdge, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]vSystem.Collections.Generic.List`1[[InfoEdit.EndEdge, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   	   	      InfoEdit.SwitchData   switchesuSystem.Collections.Generic.List`1[[InfoEdit.Switch, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   	      InfoEdit.BaliseData   balisesuSystem.Collections.Generic.List`1[[InfoEdit.Balise, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   	             InfoEdit.Track   	   	   	   	   	   	      |System.Collections.Generic.List`1[[InfoEdit.TrackPieceGIS, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.TrackPieceGIS[]   	            |System.Collections.Generic.List`1[[InfoEdit.StartEdgeInfo, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.StartEdgeInfo[]   	            zSystem.Collections.Generic.List`1[[InfoEdit.EndEdgeInfo, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.EndEdgeInfo[]   	            xSystem.Collections.Generic.List`1[[InfoEdit.StartEdge, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.StartEdge[]   	            vSystem.Collections.Generic.List`1[[InfoEdit.EndEdge, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.EndEdge[]   	             uSystem.Collections.Generic.List`1[[InfoEdit.Switch, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.Switch[]   	!            uSystem.Collections.Generic.List`1[[InfoEdit.Balise, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.Balise[]   	"            InfoEdit.Track   trackID	trackTypetrackTypeNamestartMileagestartLatstartLon
+endMileageendLatendLonstartAddress
+endAddress                
+    Ä— ﬁ9    Ä— ﬁ9             
+    Ä— ﬁ9    Ä— ﬁ9             
+    Ä— ﬁ9    Ä— ﬁ9             
+    Ä— ﬁ9    Ä— ﬁ9             
+    Ä— ﬁ9    Ä— ﬁ9             
+    Ä— ﬁ9    Ä— ﬁ9              InfoEdit.TrackPieceGIS   	#   	$   	%   	&   	'   	(             InfoEdit.StartEdgeInfo   	)             InfoEdit.EndEdgeInfo   	*             InfoEdit.StartEdge   	+              InfoEdit.EndEdge   	,   !          InfoEdit.Switch   	-   	.   	/   	0   	1   	2   	3   	4   "           InfoEdit.Balise   	5   	6   	7   	8   	9   	:   	;   	<   	=   	>   	?   	@   	A   	B   	C   	D   	E   #   InfoEdit.TrackPieceGIS   trackIDtrackPieces ySystem.Collections.Generic.List`1[[InfoEdit.TrackPiece, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]      	F   $   #      	G   %   #      	H   &   #      	I   '   #      	J   (   #      	K   )   InfoEdit.StartEdgeInfo   startEdgeIDtrackNum
+byteOffset        *   InfoEdit.EndEdgeInfo   	endEdgeIDtrackNum
+byteOffset        +   InfoEdit.StartEdge	   typeadjacentDataOffsetadjacentTsrsNumadjacentStationNumadjacentEdgeTypeadjacentTrackNumpositionedgeTrackNum	byteCount                           ,   InfoEdit.EndEdge	   typeadjacentDataOffsetadjacentTsrsNumadjacentStationNumadjacentEdgeTypeadjacentTrackNumpositionedgeTrackNum	byteCount            ˇ          ˇ     -   InfoEdit.Switch   type	switchNumswitchDirection	switchPOI	switchPosswitchReversePos
+lastOffsetswitchPosOffset
+nextOffsetpreSwitchTrackNumswitchPosTrackNumswitchReverseTrackNum	byteCount<ByteCount>k__BackingField                   ˙»  ˙»             .   -                       /   -                       0   -                      1   -                        2   -                     3   -                    4   -                 5   InfoEdit.Balise
+   type
+lastOffset
+nextOffset	baliseNumdataSizebaliseProperty	balisePosbaliseTrackNum	baliseLocbaliseDataPort                             6   5           ÅÅ   A   7   5           ÅÅ       8   5           ÅÅ       9   5           ÅÅ   @   :   5                  ;   5                  <   5        AA   B   =   5     	   AA   !   >   5     
+   AA   !   ?   5           AA   B   @   5                  A   5           ÅÅ       B   5           ÅÅ       C   5           AA       D   5           AA       E   5              !   F   ySystem.Collections.Generic.List`1[[InfoEdit.TrackPiece, InfoEdit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  InfoEdit.TrackPiece[]   	L         G   F   	M         H   F   	N         I   F   	O         J   F   	P         K   F   	Q         L          InfoEdit.TrackPiece   	R   	S   	T   	U   M          InfoEdit.TrackPiece   	V   N          InfoEdit.TrackPiece   	W   	X   	Y   	Z   	[   	\   O          InfoEdit.TrackPiece   	]   	^   	_   	`   	a   	b   P          InfoEdit.TrackPiece   	c   	d   Q          InfoEdit.TrackPiece   	e   R   InfoEdit.TrackPiece   deltaPosdeltaLatdeltaLondeltaHeadingadjacentTrack                          S   R                     T   R                     U   R                     V   R                     W   R                     X   R                     Y   R                     Z   R                     [   R                     \   R                     ]   R                     ^   R                     _   R                     `   R                     a   R                     b   R                     c   R                     d   R                     e   R                     

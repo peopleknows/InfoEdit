@@ -1,0 +1,7 @@
+2020/4/28 18:05:43文件“E:\1-peopleknows\MyCode\3数字轨道地图管理软件\InfoEdit\0.0.3.200416_base_InfoEdit\InfoEdit\Log\history.txt”正由另一进程使用，因此该进程无法访问此文件。
+2020/4/28 18:06:34文件“E:\1-peopleknows\MyCode\3数字轨道地图管理软件\InfoEdit\0.0.3.200416_base_InfoEdit\InfoEdit\Log\history.txt”正由另一进程使用，因此该进程无法访问此文件。
+2020/4/28 18:09:18文件“E:\1-peopleknows\MyCode\3数字轨道地图管理软件\InfoEdit\0.0.3.200416_base_InfoEdit\InfoEdit\Log\history.txt”正由另一进程使用，因此该进程无法访问此文件。
+2020/4/28 18:11:42文件“E:\1-peopleknows\MyCode\3数字轨道地图管理软件\InfoEdit\0.0.3.200416_base_InfoEdit\InfoEdit\Log\history.txt”正由另一进程使用，因此该进程无法访问此文件。
+2020/4/28 18:15:14文件“E:\1-peopleknows\MyCode\3数字轨道地图管理软件\InfoEdit\0.0.3.200416_base_InfoEdit\InfoEdit\Log\history.txt”正由另一进程使用，因此该进程无法访问此文件。
+2020/4/28 20:57:49不应有 <TrackInfo xmlns=''>。 XML 文档(2, 2)中有错误。
+2020/4/28 20:57:49不存在车站数据头
